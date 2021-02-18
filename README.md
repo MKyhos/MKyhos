@@ -39,11 +39,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     alt="python" width="40" height="40"/>
   </a>
-  <a href="https://r-project.com" target="_blank">
+  <a href="https://r-project.org" target="_blank">
     <img src="https://www.r-project.org/logo/Rlogo.svg"
       alt="rstats" width="40" height="40"/>
   </a>
-  <a href="https://www.mc-stan.org" target="_blank">
+  <a href="https://mc-stan.org" target="_blank">
     <img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.png",
       alt="mc-stan" width="40" height="40" />
   </a>
