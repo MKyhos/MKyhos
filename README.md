@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on (spatial) data integration and small area estimation
   problems.
-- 🌱 I’m currently learning more about Golang, C++, Database and Cloud Engineering
+- 🌱 I’m currently learning more about Golang, C++, JuliaLang, and Database Engineering
 - 💬 Exchange about PostGIS, PostgreSQL, Rstats 
 - 📫 Reach me via [Twitter](https://www.twitter.com/maltekyhos) or via Matrix
   (@mky:matrix.org) 
