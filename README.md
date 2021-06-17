@@ -51,4 +51,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkyhos&show_icons=true&locale=en" alt="mkyhos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkyhos&show_icons=true&locale=en&theme=onedark&count_private=true" alt="mkyhos" /></p>
