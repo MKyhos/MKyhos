@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/maltekyhos" target="blank"><img src="https://img.shields.io/twitter/follow/maltekyhos?logo=twitter&style=for-the-badge" alt="maltekyhos" /></a> </p>
 
 
-- 🔭 Working as R Developer, also interested into geocomputation and small area estimation
+- 🔭 Working with R, also interested into geocomputation and other fields
 - 🌱 I’m currently learning more about C and Database Engineering
 - 💬 Exchange about PostGIS, PostgreSQL, Rstats 
 - 📫 Reach me via [Twitter](https://www.twitter.com/maltekyhos) or via Matrix
