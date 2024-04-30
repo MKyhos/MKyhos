@@ -3,10 +3,10 @@
 </h1>
 
 
-- 🔭 Working with R, also interested into geocomputation and other fields
+- Working in Python, but also several years of working experience in R
 - 🌱 I’m currently learning more about Rust, and Data(base) Engineering
-- 💬 Exchange about PostgreSQL, Rstats 
-- 📫 Reach me via [Twitter](https://www.twitter.com/maltekyhos) or via Matrix
+- 💬 Exchange about PostgreSQL, Rstats, Python
+- 📫 Reach me via Matrix
   (@mcky:matrix.org) 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,8 +40,12 @@
       alt="rstats" width="40" height="40"/>
   </a>
   <a href="https://mc-stan.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.png",
+    <img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.png"
       alt="mc-stan" width="40" height="40" />
   </a>
+  <a href="https://docs.ansible.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4"
+      alt="Ansible" width="40" height="40" />
+    </a>
 </p>
 
