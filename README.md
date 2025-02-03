@@ -3,9 +3,8 @@
 </h1>
 
 
-- Working in Python, but also several years of working experience in R
+- Working in Python and Go
 - 🌱 I’m currently learning more about Rust, and Data(base) Engineering
-- 💬 Exchange about PostgreSQL, Rstats, Python
 - 📫 Reach me via Matrix
   (@mcky:matrix.org) 
 
