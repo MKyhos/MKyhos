@@ -3,10 +3,8 @@
 </h1>
 
 
-- Working in Python and Go
-- 🌱 I’m currently learning more about Rust, and Data(base) Engineering
-- 📫 Reach me via Matrix
-  (@mcky:matrix.org) 
+- Working mostly in Python and Go
+- 📫 Reach me via Matrix (@mcky:matrix.org) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
